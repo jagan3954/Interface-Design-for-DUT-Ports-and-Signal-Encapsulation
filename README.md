@@ -61,7 +61,7 @@ In this experiment:
 ## SystemVerilog Code
 
 ### Interface Definition
-```systemverilog
+```
 interface dut_if (input logic clk, input logic rst);
     logic [7:0] data_in;
     logic [7:0] data_out;
@@ -128,7 +128,9 @@ endmodule
 ```
 ### Simulation Output
 
---- PAste the output here
+<img width="1920" height="1049" alt="512533774-5860a4f4-9b2a-466b-bf2d-30b1ffb29949" src="https://github.com/user-attachments/assets/857bc5cc-6256-4d20-be4a-6cae42acb653" />
+
+
 
 ### Result
 
